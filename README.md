@@ -1,5 +1,4 @@
-# 📰 Fake News Detection using Machine Learning
-
+# 📰 Detecting Fake Health News with ML
 This project is a machine learning-based system that classifies news as **Real** or **Fake**, specifically focused on Indian health-related news. It uses **TF-IDF Vectorization** and **Logistic Regression** to detect misinformation.
 
 ## 📁 Project Structure
